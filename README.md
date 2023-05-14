@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 
 ![Deepak Kumar Bind GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakbind)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+![deepakbind's Stats](https://github-readme-stats.vercel.app/api?username=deepakbind&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+
+![deepakbind's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakbind&theme=gruvbox&hide_border=false)
+
+![deepakbind's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakbind&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
